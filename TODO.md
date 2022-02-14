@@ -1,0 +1,15 @@
+# To do
+- Add rooms to the world in `room.c`.
+----
+- Make basic networking subsystem in N library.
+----
+- Make basic tool use / inventory system.
+----
+- Add main menu.
+- Add settings menu.
+- Add dialogue boxes for NPC speech.
+- Invent format for dialogue paths.
+----
+- Set application DPI aware for windows through application manifest.
+----
+- Make your own GLEW or switch to gdi+.

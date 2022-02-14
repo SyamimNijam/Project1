@@ -1,0 +1,6 @@
+junk/
+assets/assets.rc
+
+# Compilation junk
+lib/glew*
+lib/libn*.a
